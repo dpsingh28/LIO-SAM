@@ -1,0 +1,3 @@
+[submodule "src/DiSCo-SLAM"]
+	path = src/DiSCo-SLAM
+	url = git@github.com:dpsingh28/DiSCo-SLAM.git
